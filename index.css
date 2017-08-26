@@ -1,8 +1,57 @@
+*{
+    margin: 0 auto;
+}
+
 html {
     background-color: rgb(230,230,230);
+
 }
 
 h1{
+    padding-top: 40px;
+    padding-bottom: 40px;
     width: inherit;
     text-align: center;
+    font-size: 50px;
+    font-family:sans-serif;
+    background-image: url(forest.jpg)
+}
+
+
+
+h2{
+    padding-top: 20px;
+    font-family: avenir;
+    text-align: center;
+    border-bottom-style: solid;
+}
+
+button{
+    width: 33%;
+    height: 45px;
+    font-size: 30px;
+    font-family: avenir;
+    border: none;
+}
+
+#active{
+    width: 33%;
+    height: 45px;
+    font-size: 30px;
+    font-family: avenir;
+    border: none;
+    background-color: white;
+}
+
+
+#content{
+    max-width: 66%;
+    padding: 20px;
+    display: inline-block;
+    text-align: left;
+
+}
+
+p{
+    font-family: avenir;
 }

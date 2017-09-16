@@ -24,6 +24,7 @@ h2{
     font-family: avenir;
     text-align: center;
     border-bottom-style: solid;
+    color:deepskyblue;
 }
 
 button{
@@ -40,7 +41,7 @@ button{
     font-size: 30px;
     font-family: avenir;
     border: none;
-    background-color: white;
+    background-color: deepskyblue;
 }
 
 
